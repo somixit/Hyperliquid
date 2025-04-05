@@ -11,7 +11,7 @@ Price updated every 30 seconds and the background changes between orange/green
 based on the last 1H trend; If positive shows green, if negative changes to orange.
 
 Now you can check the price in a split second while you work!
-
+You can check more hyperliquid news on https://hypeon.top
 Enjoy!
 
  
