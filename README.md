@@ -14,4 +14,5 @@ Now you can check the price in a split second while you work!
 You can check more hyperliquid news on https://hypeon.top
 Enjoy!
 
- 
+ ![image](https://github.com/user-attachments/assets/b91c2602-3630-47c3-9c8f-db71df87c8f3)
+
